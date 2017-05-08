@@ -1,0 +1,40 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "demo app for React-RPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-rpm/instagram-clone.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "routers"
+  ],
+  "author": "React-RPM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/react-rpm/instagram-clone/issues"
+  },
+  "homepage": "https://github.com/react-rpm/instagram-clone#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.1",
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-hot-loader": "^1.3.1",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.5.1"
+  }
+}
